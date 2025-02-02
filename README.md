@@ -108,12 +108,9 @@ The project evaluates multiple models, fine-tunes hyperparameters, and selects t
 ## Results
 
 Key findings from the notebook:
-- [Summarize key insights and performance metrics]
-- Best-performing model: [Specify the model]
+- Best-performing model: Random Forest Regression
 - Model performance metrics:
-  - MAE: [value]
-  - RMSE: [value]
-  - R² Score: [value]
+  - R² Score: 0.8455
 
 [Include charts or plots generated in the notebook as visual aids if desired.]
 
